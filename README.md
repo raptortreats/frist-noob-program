@@ -1,2 +1,2 @@
 # frist-noob-program
-pushing
+this is my first repo
